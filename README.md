@@ -1,2 +1,2 @@
 # Codewars
-https://www.codewars.com/users/DaniilStudenikin/badges/large
+**https://www.codewars.com/users/DaniilStudenikin**
