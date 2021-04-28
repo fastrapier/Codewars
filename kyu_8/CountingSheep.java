@@ -12,7 +12,6 @@ public class CountingSheep {
     }
 
     public int countSheeps(Boolean[] arrayOfSheeps) {
-        // TODO May the force be with you
         int counter = 0;
         for (int i = 0; i < arrayOfSheeps.length; i++) {
             System.out.println(arrayOfSheeps[i]);
