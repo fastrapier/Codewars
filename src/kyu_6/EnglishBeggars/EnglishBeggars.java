@@ -1,5 +1,3 @@
-package EnglishBeggars;
-
 import java.util.Arrays;
 
 public class EnglishBeggars {

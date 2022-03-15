@@ -1,5 +1,3 @@
-package WriteNumberInExpandedForm;
-
 public class WriteNumberInExpandedForm {
     public static void main(String[] args) {
         System.out.println(expandedForm(74));

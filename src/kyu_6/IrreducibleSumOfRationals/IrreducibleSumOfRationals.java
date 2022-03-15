@@ -1,4 +1,3 @@
-package IrreducibleSumOfRationals;
 import static java.math.BigInteger.valueOf;
 import static java.util.stream.Stream.of;
 

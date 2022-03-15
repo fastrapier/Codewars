@@ -1,5 +1,3 @@
-package PersistentBugger;
-
 import java.util.Arrays;
 
 public class PersistentBugger {

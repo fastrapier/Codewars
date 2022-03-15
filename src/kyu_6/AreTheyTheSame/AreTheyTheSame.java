@@ -1,5 +1,3 @@
-package AreTheyTheSame;
-
 import java.util.Arrays;
 
 public class AreTheyTheSame {

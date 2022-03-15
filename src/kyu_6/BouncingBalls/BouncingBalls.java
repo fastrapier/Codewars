@@ -1,5 +1,3 @@
-package BouncingBalls;
-
 public class BouncingBalls {
     public static void main(String[] args) {
     //TODO:Сделать
